@@ -17,10 +17,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Pseudo Sciences
-textline: |
+textline: |-
   Belkirk College of Engineering
 
-  Ora et Labora
+  Ora et Bullshitora
 hero_button:
   text: Learn more
   href: "/about"
